@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignUPPop", "SignUPPop.csproj", "{237CB29B-A624-4BDC-AEE8-4030E620C76F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237CB29B-A624-4BDC-AEE8-4030E620C76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237CB29B-A624-4BDC-AEE8-4030E620C76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237CB29B-A624-4BDC-AEE8-4030E620C76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237CB29B-A624-4BDC-AEE8-4030E620C76F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD520094-BDBC-4AAF-A595-F5BD95CBDE0F}
+	EndGlobalSection
+EndGlobal
